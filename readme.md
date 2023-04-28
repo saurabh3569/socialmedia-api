@@ -20,7 +20,7 @@ To install and run the API, follow these steps:
       + Replace <your-mongodb-uri> with the URI for your MongoDB instance.
       + Replace <your-jwt-secret> with a secret string of your choice.
 
-+Start the API: npm start      
++ Start the API: npm start      
 
 
 ## Endpoints
